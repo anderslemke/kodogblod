@@ -1,1 +1,11 @@
-h1 { color: red; }
+h1 { color: rgb(215,35,31); }
+h1 .logo {
+  background-color: rgb(215,35,31);
+  color: white;
+  font-size: 80%;
+  padding:3px 8px;
+}
+
+.graphic {
+  margin: 20px 0px;
+}
