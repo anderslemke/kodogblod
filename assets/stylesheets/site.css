@@ -1,11 +1,52 @@
-h1 { color: rgb(215,35,31); }
-h1 .logo {
-  background-color: rgb(215,35,31);
+body {
+  background-image: url(/assets/patterns/dark_leather.png); background-position: initial initial; background-repeat: initial initial;
+}
+
+#top-banner h1 {
+  display:block;
+  padding:0px;
+  margin:0px;
+  /* Hide the text. */
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#top-banner a {
+  display:block;
+  background-image:  url(/assets/images/KOB_webbanner_940x169px.png);
+  height:169px;
+  width:940px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#site-navigation {
+  padding-top:10px;
+}
+#site-navigation .nav a {
+  font-size: 170%;
+  font-weight:bold;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+footer {
+  padding:20px;
+  color: #666;
+  text-align: center;
+}
+
+/*h1 .logo {
+  background-color: #A60E0E;
   color: white;
   font-size: 80%;
   padding:3px 8px;
 }
+h1 .payoff {
+  color: #A60E0E;
+  font-size:90%;
+}
 
 .graphic {
   margin: 20px 0px;
-}
+}*/
