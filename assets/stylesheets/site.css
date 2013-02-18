@@ -36,6 +36,10 @@ footer {
   text-align: center;
 }
 
+.align-right {
+  text-align:right;
+}
+
 /*h1 .logo {
   background-color: #A60E0E;
   color: white;
