@@ -9,7 +9,7 @@ Skin :  #f9a679 C0 M42 Y54 K0
 */
 
 h1, h2, h3, h4, h5, h6 {
-  /*font-family: 'Chivo', sans-serif;*/
+  font-family: 'Chivo', sans-serif;
 }
 body {
   font-size: 16px;
