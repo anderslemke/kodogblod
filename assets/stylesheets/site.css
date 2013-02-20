@@ -1,44 +1,57 @@
+/*
+Swiss721 Blk BT
+
+Blå  :  #1b79bf C84 M47 Y0 K0
+Rød  :  #d92726 C8 M98 Y100 K2
+Lilla:  #9c3191 C42 M95 Y0 K1
+Gul  :  #f5a126 C0 M41 Y95 K1
+Skin :  #f9a679 C0 M42 Y54 K0
+*/
+
+h1, h2, h3, h4, h5, h6 {
+  /*font-family: 'Chivo', sans-serif;*/
+}
 body {
+  font-size: 16px;
   background-image: url(/assets/patterns/dark_leather.png); background-position: initial initial; background-repeat: initial initial;
 }
 
-#top-banner h1 {
-  display:block;
-  padding:0px;
-  margin:0px;
-  /* Hide the text. */
-  text-indent: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-}
-#top-banner a {
-  display:block;
-  background-image:  url(/assets/images/KOB_webbanner_940x169px.png);
-  height:169px;
-  width:940px;
-  background-position: center center;
-  background-repeat: no-repeat;
+h3 {
+  /*font-variant:small-caps;*/
 }
 
-#site-navigation {
-  padding-top:10px;
-}
-#site-navigation .nav a {
-  font-size: 170%;
-  font-weight:bold;
-  padding-top: 12px;
-  padding-bottom: 12px;
+h4 {
+  letter-spacing: 1px;
 }
 
 footer {
   padding:20px;
-  color: #666;
+  color: #444;
   text-align: center;
 }
 
 .align-right {
   text-align:right;
 }
+
+.person {
+  background-color: #1b79bf;
+  white-space: nowrap;
+  color: white;
+  padding:1px 3px;
+  font-size:90%;
+}
+
+.description {
+  margin-bottom:20px;
+}
+.description p:first-letter{ 
+  font-weight: bold;
+  font-size:100%;
+  letter-spacing: 1px;
+}
+
+
 
 /*h1 .logo {
   background-color: #A60E0E;
