@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"wh",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
 				"back",
 				"background-color"
 			],
@@ -412,10 +416,6 @@
 				"last_sign_in_ip"
 			],
 			[
-				"wh",
-				"whois"
-			],
-			[
 				"coun",
 				"country_to_timezone"
 			],
@@ -664,13 +664,15 @@
 	},
 	"file_history":
 	[
-		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
-		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/site.css",
+		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/navigation.css",
+		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
+		"/Users/anderslemke/Projects/kodogblod/.gitignore",
+		"/Users/anderslemke/Projects/issuu/magma/.gitignore",
+		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
 		"/Users/anderslemke/Projects/kodogblod/_includes/Color Palette by Color Scheme Generator.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/site.sublime-workspace",
-		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
 		"/Users/anderslemke/Projects/kodogblod/_includes/head.html",
 		"/Users/anderslemke/Projects/kodogblod/bootstrap.min.css",
 		"/Users/anderslemke/Projects/kodogblod/_site/assets/stylesheets/site.css",
@@ -789,9 +791,7 @@
 		"/Users/anderslemke/Projects/issuu/magma/spec/integration/sign_up_spec.rb",
 		"/Users/anderslemke/Projects/issuu/magma/app/views/layouts/settings.html.erb",
 		"/Users/anderslemke/Projects/issuu/magma/app/views/sales_site/pricing.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/admins/dashboards/show.html.haml",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/admins/users/edit.html.haml",
-		"/Users/anderslemke/Projects/issuu/magma/config/initializers/launched.rb"
+		"/Users/anderslemke/Projects/issuu/magma/app/views/admins/dashboards/show.html.haml"
 	],
 	"find":
 	{
@@ -812,6 +812,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Kød og blod",
 			"align-right",
 			"forget_me",
 			"def do_",
@@ -938,8 +939,7 @@
 			"token",
 			"roles_ma",
 			"users",
-			"attac",
-			"INTERNAL_ROLES"
+			"attac"
 		],
 		"highlight": true,
 		"in_selection": false,
