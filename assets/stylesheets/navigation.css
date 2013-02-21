@@ -21,10 +21,16 @@
 #site-navigation {
   padding-top:10px;
 }
+
 #site-navigation .nav a {
-  font-size: 170%;
+  color:#9c3191;
+  font-size: 130%;
   font-weight:bold;
   padding-top: 12px;
   padding-bottom: 12px;
-  letter-spacing: -2px;
+  letter-spacing: 2px;
+}
+
+#site-navigation .nav a:hover {
+  color:#d92726;
 }
