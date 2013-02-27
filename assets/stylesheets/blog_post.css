@@ -1,0 +1,30 @@
+
+.blog_post {
+  background-image: url(/assets/images/blog_divider.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  margin-top:30px;
+  margin-bottom: 30px;
+}
+
+.blog_post h2 {
+  text-align:center;
+  font-weight: 400;
+  font-size: 2.5em;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+
+.blog_post .author {
+  text-align:center;
+  color: #888;
+  font-weight: 100;
+  font-style: italic;
+  letter-spacing: 1px;
+  margin-bottom:20px;
+}
+
+.blog_post p {
+  line-height: 2em;
+}

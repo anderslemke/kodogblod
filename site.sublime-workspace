@@ -664,13 +664,14 @@
 	},
 	"file_history":
 	[
-		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/site.css",
+		"/Users/anderslemke/Projects/kodogblod/_layouts/frontpage.html",
 		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/navigation.css",
+		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/site.css",
 		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
+		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
 		"/Users/anderslemke/Projects/kodogblod/.gitignore",
 		"/Users/anderslemke/Projects/issuu/magma/.gitignore",
-		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
 		"/Users/anderslemke/Projects/kodogblod/_includes/Color Palette by Color Scheme Generator.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/site.sublime-workspace",
 		"/Users/anderslemke/Projects/kodogblod/_includes/head.html",
@@ -790,8 +791,7 @@
 		"/Users/anderslemke/Projects/issuu/magma/spec/controllers/users/sessions_controller_spec.rb",
 		"/Users/anderslemke/Projects/issuu/magma/spec/integration/sign_up_spec.rb",
 		"/Users/anderslemke/Projects/issuu/magma/app/views/layouts/settings.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/sales_site/pricing.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/admins/dashboards/show.html.haml"
+		"/Users/anderslemke/Projects/issuu/magma/app/views/sales_site/pricing.html.erb"
 	],
 	"find":
 	{
@@ -799,7 +799,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"",
@@ -976,6 +976,11 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
@@ -995,11 +1000,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
