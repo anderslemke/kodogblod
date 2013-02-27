@@ -24,6 +24,26 @@ h4 {
   letter-spacing: 1px;
 }
 
+.back {
+  margin-top:10px;
+  letter-spacing: 0px;
+}
+.header {
+  margin-top:20px;
+  letter-spacing: 1px;
+  margin-bottom:20px;
+  font-size: 0.9em;
+}
+
+.center {
+  text-align:center;
+}
+
+hr {
+  border-top: 1px solid #555;
+  border-bottom: 0px;
+}
+
 footer {
   padding:20px;
   color: #444;
@@ -44,6 +64,7 @@ footer {
 
 .description {
   margin-bottom:20px;
+  line-height: 1.5em
 }
 .description p:first-letter{ 
   font-weight: bold;
