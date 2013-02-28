@@ -18,14 +18,16 @@
 
 .blog_post .author {
   text-align:center;
-  color: #888;
-  font-weight: 100;
+  color: #666;
+  font-weight: 400;
   font-style: italic;
   letter-spacing: 1px;
   margin-bottom:25px;
+  font-size:95%;
 }
 
 .blog_post p {
   line-height: 2em;
   font-size: 1.2em;
+  font-family: "Droid Serif", serif;
 }
