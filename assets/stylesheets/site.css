@@ -28,7 +28,7 @@ h4 {
   margin-top:10px;
   letter-spacing: 0px;
 }
-.header {
+.blog-header {
   margin-top:20px;
   letter-spacing: 1px;
   margin-bottom:20px;
@@ -63,6 +63,7 @@ footer {
 }
 
 .description {
+  margin-top: 20px;
   margin-bottom:20px;
   line-height: 1.5em
 }
@@ -76,6 +77,12 @@ footer {
   width:93px;
 }
 
+#poster {
+  height:530px;
+  background-image: url(/assets/images/frontpage.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+}
 
 
 

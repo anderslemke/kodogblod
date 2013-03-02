@@ -1,10 +1,6 @@
 ---
-lang: da
 layout: blog
-title: Blog - Kød og Blod
 ---
-
-{% for page in site.posts %}
 
 <div class="row">
   <div class="span8 offset2">
@@ -13,7 +9,7 @@ title: Blog - Kød og Blod
       <p class="author">
         Skrevet {{page.date | localize: "%A d. %-d. %B %Y" }} af {{ page.author }}
       </p>
-      {{ page.content }}
+      {{ content }}
     </div>
   </div>
 </div>
@@ -27,6 +23,3 @@ title: Blog - Kød og Blod
     <hr>
   </div>
 </div>
-
-
-{% endfor %}
