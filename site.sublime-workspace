@@ -4,12 +4,16 @@
 		"selected_items":
 		[
 			[
-				"bac",
-				"background-position"
+				"bil",
+				"billetlugen-link"
 			],
 			[
 				"font",
-				"font-weight"
+				"font-size"
+			],
+			[
+				"bac",
+				"background-position"
 			],
 			[
 				"fon",
@@ -676,25 +680,29 @@
 	},
 	"file_history":
 	[
-		"/Users/anderslemke/Projects/kodogblod/_layouts/blog_post.html",
-		"/Users/anderslemke/Projects/kodogblod/_posts/2012-06-12-intruktoerens-tanker.markdown",
-		"/Users/anderslemke/Projects/kodogblod/_posts/2013-03-01-at-saelge-billetter.markdown",
-		"/Users/anderslemke/Projects/kodogblod/_includes/top_banner.html",
-		"/Users/anderslemke/Projects/kodogblod/_layouts/frontpage.html",
-		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
-		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/blog_post.css",
-		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
 		"/Users/anderslemke/Projects/kodogblod/_includes/billetlugen_link.html",
-		"/Users/anderslemke/Projects/kodogblod/_layouts/blog.html",
-		"/Users/anderslemke/Projects/kodogblod/blog/index.html",
+		"/Users/anderslemke/Projects/kodogblod/_posts/2013-03-11-kostumieren.markdown",
+		"/Users/anderslemke/Projects/kodogblod/_posts/2012-06-12-intruktoerens-tanker.markdown",
+		"/Users/anderslemke/Projects/kodogblod/_posts/2013-03-01-rocken.markdown",
+		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
+		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
+		"/Users/anderslemke/Projects/kodogblod/_layouts/frontpage.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/site.css",
-		"/Users/anderslemke/Projects/kodogblod/_includes/billetlugen.html",
-		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
+		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/scale.css",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/navigation.css",
+		"/Users/anderslemke/Projects/kodogblod/_posts/2013-03-01-at-saelge-billetter.markdown",
+		"/Users/anderslemke/Projects/kodogblod/_includes/billetlugen.html",
 		"/Users/anderslemke/Projects/kodogblod/_includes/head.html",
+		"/Users/anderslemke/Projects/kodogblod/blog/index.html",
+		"/Users/anderslemke/Projects/kodogblod/_layouts/blog_post.html",
+		"/Users/anderslemke/Projects/kodogblod/_layouts/blog.html",
+		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/blog_post.css",
+		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap-responsive.min.css",
+		"/Users/anderslemke/Projects/kodogblod/_includes/Color Palette by Color Scheme Generator.html",
+		"/Users/anderslemke/Projects/kodogblod/_includes/top_banner.html",
+		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
 		"/Users/anderslemke/Projects/kodogblod/.gitignore",
 		"/Users/anderslemke/Projects/issuu/magma/.gitignore",
-		"/Users/anderslemke/Projects/kodogblod/_includes/Color Palette by Color Scheme Generator.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/site.sublime-workspace",
 		"/Users/anderslemke/Projects/kodogblod/bootstrap.min.css",
 		"/Users/anderslemke/Projects/kodogblod/_site/assets/stylesheets/site.css",
@@ -799,11 +807,7 @@
 		"/Users/anderslemke/Projects/issuu/magma/app/views/dashboards/show.html.erb",
 		"/Users/anderslemke/Projects/issuu/magma/app/concerns/publication_owner.rb",
 		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/confirm_subscription.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/controllers/users/accounts_controller.rb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_no_billing_account.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_dialog.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/issuu_billing_account/_show.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/issuu_billing_account/_present.html.erb"
+		"/Users/anderslemke/Projects/issuu/magma/app/controllers/users/accounts_controller.rb"
 	],
 	"find":
 	{
@@ -824,6 +828,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font-size",
 			"billetlugen",
 			"include",
 			"e0e0",
@@ -950,8 +955,7 @@
 			"update_Cont",
 			"assets",
 			"update_con",
-			"editor?(",
-			"generate_token("
+			"editor?("
 		],
 		"highlight": true,
 		"in_selection": false,
