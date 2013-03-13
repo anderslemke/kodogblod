@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bac",
+				"background-position"
+			],
+			[
 				"font",
 				"font-weight"
 			],
@@ -483,9 +487,13 @@
 	"build_system": "Packages/RSpec/RSpec.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 327.0,
 		"selected_items":
 		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
 			[
 				"rsp",
 				"Set Syntax: RSpec"
@@ -525,10 +533,6 @@
 			[
 				"rspec",
 				"Set Syntax: RSpec"
-			],
-			[
-				"inde",
-				"Indentation: Reindent Lines"
 			],
 			[
 				"githbl",
@@ -672,16 +676,22 @@
 	},
 	"file_history":
 	[
-		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
-		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/navigation.css",
-		"/Users/anderslemke/Projects/kodogblod/_includes/head.html",
+		"/Users/anderslemke/Projects/kodogblod/_layouts/blog_post.html",
+		"/Users/anderslemke/Projects/kodogblod/_posts/2012-06-12-intruktoerens-tanker.markdown",
+		"/Users/anderslemke/Projects/kodogblod/_posts/2013-03-01-at-saelge-billetter.markdown",
+		"/Users/anderslemke/Projects/kodogblod/_includes/top_banner.html",
+		"/Users/anderslemke/Projects/kodogblod/_layouts/frontpage.html",
+		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/blog_post.css",
+		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
+		"/Users/anderslemke/Projects/kodogblod/_includes/billetlugen_link.html",
 		"/Users/anderslemke/Projects/kodogblod/_layouts/blog.html",
 		"/Users/anderslemke/Projects/kodogblod/blog/index.html",
 		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/site.css",
-		"/Users/anderslemke/Projects/kodogblod/_layouts/frontpage.html",
-		"/Users/anderslemke/Projects/kodogblod/_includes/navigation.html",
-		"/Users/anderslemke/Projects/kodogblod/_includes/frontpage.html",
+		"/Users/anderslemke/Projects/kodogblod/_includes/billetlugen.html",
+		"/Users/anderslemke/Projects/kodogblod/assets/bootstrap/css/bootstrap.min.css",
+		"/Users/anderslemke/Projects/kodogblod/assets/stylesheets/navigation.css",
+		"/Users/anderslemke/Projects/kodogblod/_includes/head.html",
 		"/Users/anderslemke/Projects/kodogblod/.gitignore",
 		"/Users/anderslemke/Projects/issuu/magma/.gitignore",
 		"/Users/anderslemke/Projects/kodogblod/_includes/Color Palette by Color Scheme Generator.html",
@@ -793,13 +803,7 @@
 		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_no_billing_account.html.erb",
 		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_dialog.html.erb",
 		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/issuu_billing_account/_show.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/issuu_billing_account/_present.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_show.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_not_present.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/subscription/_free_until.html.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/advertisement_movers/new.js.erb",
-		"/Users/anderslemke/Projects/issuu/magma/app/views/article_movers/new.js.erb",
-		"/Users/anderslemke/Projects/issuu/magma/spec/controllers/users/sessions_controller_spec.rb"
+		"/Users/anderslemke/Projects/issuu/magma/app/views/users/accounts/issuu_billing_account/_present.html.erb"
 	],
 	"find":
 	{
@@ -807,7 +811,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"",
@@ -820,6 +824,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"billetlugen",
+			"include",
 			"e0e0",
 			"Blod",
 			"Kød og blod",
@@ -945,9 +951,7 @@
 			"assets",
 			"update_con",
 			"editor?(",
-			"generate_token(",
-			"token",
-			"roles_ma"
+			"generate_token("
 		],
 		"highlight": true,
 		"in_selection": false,

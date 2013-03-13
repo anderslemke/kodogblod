@@ -8,11 +8,13 @@ Gul  :  #f5a126 C0 M41 Y95 K1
 Skin :  #f9a679 C0 M42 Y54 K0
 */
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Chivo', sans-serif;
+/*Scale*/
+
+p {
+
 }
+
 body {
-  font-size: 16px;
   background-image: url(/assets/patterns/dark_leather.png); background-position: initial initial; background-repeat: initial initial;
 }
 
@@ -32,7 +34,6 @@ h4 {
   margin-top:20px;
   letter-spacing: 1px;
   margin-bottom:20px;
-  font-size: 0.9em;
 }
 
 .center {
@@ -59,7 +60,7 @@ footer {
   white-space: nowrap;
   color: white;
   padding:1px 3px;
-  font-size:90%;
+  
 }
 
 .description {
@@ -68,11 +69,17 @@ footer {
   line-height: 1.5em
 }
 .description p:first-letter{ 
-  font-weight: bold;
-  font-size:100%;
-  letter-spacing: 1px;
+  
 }
 
+a.billetlugen, a.billetlugen-link {
+  font-weight: bold;
+  color:rgb(44,137,192);
+}
+a.billetlugen:hover, a.billetlugen-link:hover {
+  text-decoration: none;
+  color:rgb(230,94,0);
+}
 .billetlugen img {
   width:93px;
 }
