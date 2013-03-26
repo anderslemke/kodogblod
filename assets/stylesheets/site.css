@@ -1,0 +1,109 @@
+/*
+Swiss721 Blk BT
+
+Blå  :  #1b79bf C84 M47 Y0 K0
+Rød  :  #d92726 C8 M98 Y100 K2
+Lilla:  #9c3191 C42 M95 Y0 K1
+Gul  :  #f5a126 C0 M41 Y95 K1
+Skin :  #f9a679 C0 M42 Y54 K0
+*/
+
+/*Scale*/
+
+p {
+
+}
+
+body {
+  background-image: url(/assets/patterns/dark_leather.png); background-position: initial initial; background-repeat: initial initial;
+}
+
+h3 {
+  /*font-variant:small-caps;*/
+}
+
+h4 {
+  letter-spacing: 1px;
+}
+
+.back {
+  margin-top:10px;
+  letter-spacing: 0px;
+}
+.blog-header {
+  margin-top:20px;
+  letter-spacing: 1px;
+  margin-bottom:20px;
+}
+
+.center {
+  text-align:center;
+}
+
+hr {
+  border-top: 1px solid #555;
+  border-bottom: 0px;
+}
+
+footer {
+  padding:20px;
+  color: #444;
+  text-align: center;
+}
+
+.align-right {
+  text-align:right;
+}
+
+.person {
+  background-color: #1b79bf;
+  white-space: nowrap;
+  color: white;
+  padding:1px 3px;
+  
+}
+
+.description {
+  margin-top: 20px;
+  margin-bottom:20px;
+  line-height: 1.5em
+}
+.description p:first-letter{ 
+  
+}
+
+a.billetlugen, a.billetlugen-link {
+  font-weight: bold;
+  color:rgb(44,137,192);
+}
+a.billetlugen:hover, a.billetlugen-link:hover {
+  text-decoration: none;
+  color:rgb(230,94,0);
+}
+.billetlugen img {
+  width:93px;
+}
+
+#poster {
+  height:530px;
+  background-image: url(/assets/images/frontpage.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+
+
+/*h1 .logo {
+  background-color: #A60E0E;
+  color: white;
+  font-size: 80%;
+  padding:3px 8px;
+}
+h1 .payoff {
+  color: #A60E0E;
+  font-size:90%;
+}
+
+.graphic {
+  margin: 20px 0px;
+}*/

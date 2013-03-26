@@ -1,0 +1,25 @@
+---
+layout: blog
+---
+
+<div class="row">
+  <div class="span8 offset2">
+    <div class="blog_post">
+      <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+      <p class="author">
+        Skrevet af {{ page.author }}
+      </p>
+      {{ content }}
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="span8 offset2 center">
+    {% include billetlugen_link.html %}
+  </div>
+</div>
+<div class="row">
+  <div class="span10 offset1">
+    <hr>
+  </div>
+</div>

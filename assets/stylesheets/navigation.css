@@ -1,0 +1,36 @@
+#top-banner h1 {
+  display:block;
+  padding:0px;
+  margin:0px;
+  /* Hide the text. */
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#top-banner a {
+  padding:0px;
+  margin:0px;
+  display:block;
+  background-image:  url(/assets/images/KOB_webbanner_940x169px.png);
+  height:169px;
+  width:940px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#site-navigation {
+  padding-top:10px;
+  margin-bottom:1.25em;
+}
+
+.site-navigation.nav a {
+  color:white;
+  font-weight:bold;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  letter-spacing: 2px;
+}
+
+.site-navigation.nav a:hover {
+  color:#d92726;
+}
