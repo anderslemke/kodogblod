@@ -1,0 +1,57 @@
+/*http://modularscale.com/scale/?px1=15&px2=20&ra1=1.618&ra2=0*/
+
+* {
+  font-size:16px; /*This is the base font size*/
+}
+a {
+  font-size: inherit;
+}
+p, footer {
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .info dt, .site-navigation li {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 900;
+}
+
+.billetlugen, .billetlugen-link {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.huger {
+  font-size:3.272em !important;
+}
+.huge, h1, .blog_post h2 {
+  font-size:2.454em !important;
+}
+.bigger, h2, .site-navigation li {
+  font-size:2.023em !important;
+}
+.big, h3 {
+  font-size:1.517em !important;
+}
+.medium, .blog_post p, .billetlugen, .billetlugen-link {
+  font-size:1.25em !important;
+}
+.small, p, h1, .blog_post .author {
+  font-size:0.938em !important;
+}
+.smaller {
+  font-size:0.773em !important;
+}
+.tiny {
+  font-size: 0.579em !important;
+  /*font-size: 15px;*/
+}
+.tinier {
+  font-size: 0.478em;
+}
+
+.info dd {
+  padding-left: 1.517em;
+}
+.info dt {
+  padding:0px;
+  margin-top: 0.579em;
+  margin-bottom: 0.137em;
+}

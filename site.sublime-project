@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/anderslemke/Projects/kodogblod",
+      "folder_exclude_patterns": ["_site"]
+		}
+	]
+}
