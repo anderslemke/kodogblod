@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-author: Sigrid, Skuespiller, sanger, danser
+author: Sigrid Lund Nielsen - Skuespiller, sanger, danser
 title: Helt tæt på!
 ---
 
