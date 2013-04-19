@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-author: Anders Thermansen, Kapelmester
+author: Anders Termansen, Kapelmester
 title: Mød "Rocken"
 ---
 
