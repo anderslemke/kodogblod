@@ -2,6 +2,7 @@
 layout: blog_post
 author: Patrick, Instruktør & koncept
 title: Patrick, kødet og blodet
+facebook_image: http://xn--kdogblod-54a.dk/assets/images/square_poster.png
 ---
 
 Det hele startede med "Berlin 84" af Anne Linnet, hvor Sanne Salomonsen synger en del af sangene. De piger, og mænd, som Anne Linnet beskriver var enormt inspirerende for mig. Tanken om manden, der vil være kvinde, fordi han altid har følt sig som pige og gemmer sig bag masker og facader. Det får et menneske til at krakelere. Det sætter et menneske i knæ. 

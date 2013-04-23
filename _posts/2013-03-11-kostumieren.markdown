@@ -2,6 +2,7 @@
 layout: blog_post
 author: Mette Sand, Kostumier
 title: Hende der har styr på tøjet
+facebook_image: http://xn--kdogblod-54a.dk/assets/images/square_poster.png
 ---
 
 Så er der taget hul på mit blog-indlæg og dermed også på min debut, både som blogger og som hende der har med kostumer at gøre. Kostumier kaldes det så fornemt, men jeg foretrækker, indtil videre, at omtale mig selv som "hende der har styr på tøjet". Også selvom det i den sidste ende bare er ord.

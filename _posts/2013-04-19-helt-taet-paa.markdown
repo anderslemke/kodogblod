@@ -2,6 +2,7 @@
 layout: blog_post
 author: Sigrid Lund Nielsen - Skuespiller, sanger, danser
 title: Helt tæt på!
+facebook_image: http://xn--kdogblod-54a.dk/assets/images/square_poster.png
 ---
 
 Så er der ikke længe til vi rykker ind i Herlev Teaterbio. Hvad der syntes som en forestilling langt ude i fremtiden er nu kun nogle få uger væk!
