@@ -20,7 +20,7 @@ photographers.each do |photographer|
   images.each do |image_name|
     image_path = File.join(photographer_dir, image_name)
     image = Magick::Image::read(image_path).first
-    thumb = image.resize_to_fit(200, 200)
+    thumb = image.resize_to_fill(200, 200)
     small = image.resize_to_fit(500, 500)
     big = image.resize_to_fit(1000, 1000)
     

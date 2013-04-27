@@ -91,6 +91,12 @@ a.billetlugen:hover, a.billetlugen-link:hover {
   background-repeat: no-repeat;
 }
 
+a.fancybox {
+  display:block;
+  float: left;
+  padding: 5px;
+}
+
 
 
 /*h1 .logo {
