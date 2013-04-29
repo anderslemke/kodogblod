@@ -85,10 +85,7 @@ a.billetlugen:hover, a.billetlugen-link:hover {
 }
 
 #poster {
-  height:530px;
-  background-image: url(/assets/images/frontpage.png);
-  background-position: top center;
-  background-repeat: no-repeat;
+  padding-top:80px;
 }
 
 a.fancybox {
