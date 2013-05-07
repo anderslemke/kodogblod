@@ -2,7 +2,7 @@
 layout: blog_post
 author: Anders Lemke - PR-ansvarlig
 title: Stemning fra en prøve
-facebook_image: http://xn--kdogblod-54a.dk/assets/images/fotoklub/big/lisbeth-iOUt8oCIBr1fw.jpg
+facebook_image: http://xn--kdogblod-54a.dk/assets/images/fotoklub/big/finn-ibw8iZBXBaH1Z0.jpg
 ---
 
 <a class="fancybox" rel="gallery2" href="/assets/images/fotoklub/big/lisbeth-iA9DOLXaVHS4r.jpg"><img width="190" src="/assets/images/fotoklub/thumb/lisbeth-iA9DOLXaVHS4r.jpg" alt="Foto: Herlev Fotoklub"></a>
