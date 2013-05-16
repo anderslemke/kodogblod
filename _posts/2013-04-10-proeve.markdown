@@ -1,0 +1,7 @@
+---
+layout: blog_post
+author: Sigrid
+title: Sådan foregår en prøve
+---
+
+<a href="/assets/images/patrick/koreografi/koreografi1.jpeg" class="fancybox"><img src="/assets/images/patrick/koreografi/koreografi1.jpeg" widt="100px" alt=""></a>
