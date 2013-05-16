@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 author: Stephanie Ravn - Sanger, danser, skuespiller 
-title: Patrick, kødet og blodetEn sanger i en spillers krop
+title: En sanger i en spillers krop
 facebook_image: http://xn--kdogblod-54a.dk/assets/images/fotoklub/big/bent-Koedogblod_-3180.jpg
 ---
 
